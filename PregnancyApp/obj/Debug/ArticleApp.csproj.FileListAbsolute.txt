@@ -1,0 +1,39 @@
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\bin\Debug\ArticleApp.exe.config
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\bin\Debug\ArticleApp.exe
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\bin\Debug\ArticleApp.pdb
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\bin\Debug\Npgsql.dll
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\bin\Debug\Npgsql.pdb
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\bin\Debug\Npgsql.xml
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\obj\Debug\ArticleApp.csprojAssemblyReference.cache
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\obj\Debug\ArticleApp.LoginForm.resources
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\obj\Debug\ArticleApp.Properties.Resources.resources
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\obj\Debug\ArticleApp.RegisterForm.resources
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\obj\Debug\ArticleApp.csproj.GenerateResource.cache
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\obj\Debug\ArticleApp.csproj.CoreCompileInputs.cache
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\obj\Debug\ArticleApp.csproj.CopyComplete
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\obj\Debug\ArticleApp.exe
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\obj\Debug\ArticleApp.pdb
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\obj\Debug\ArticleApp.MainForm.resources
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\obj\Debug\ArticleApp.ArticleForm.resources
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\bin\Debug\ArticleAppBaza.mdf
+C:\Users\Marko Vrban\source\repos\ArticleApp\ArticleApp\bin\Debug\ArticleAppBaza_log.ldf
+F:\ArticleAppFinal\ArticleApp\ArticleApp\bin\Debug\ArticleAppBaza.mdf
+F:\ArticleAppFinal\ArticleApp\ArticleApp\bin\Debug\ArticleAppBaza_log.ldf
+F:\ArticleAppFinal\ArticleApp\ArticleApp\bin\Debug\ArticleApp.exe.config
+F:\ArticleAppFinal\ArticleApp\ArticleApp\bin\Debug\ArticleApp.exe
+F:\ArticleAppFinal\ArticleApp\ArticleApp\bin\Debug\ArticleApp.pdb
+F:\ArticleAppFinal\ArticleApp\ArticleApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\ArticleAppFinal\ArticleApp\ArticleApp\bin\Debug\Npgsql.pdb
+F:\ArticleAppFinal\ArticleApp\ArticleApp\bin\Debug\Npgsql.xml
+F:\ArticleAppFinal\ArticleApp\ArticleApp\obj\Debug\ArticleApp.csprojAssemblyReference.cache
+F:\ArticleAppFinal\ArticleApp\ArticleApp\obj\Debug\ArticleApp.ArticleForm.resources
+F:\ArticleAppFinal\ArticleApp\ArticleApp\obj\Debug\ArticleApp.LoginForm.resources
+F:\ArticleAppFinal\ArticleApp\ArticleApp\obj\Debug\ArticleApp.MainForm.resources
+F:\ArticleAppFinal\ArticleApp\ArticleApp\obj\Debug\ArticleApp.Properties.Resources.resources
+F:\ArticleAppFinal\ArticleApp\ArticleApp\obj\Debug\ArticleApp.RegisterForm.resources
+F:\ArticleAppFinal\ArticleApp\ArticleApp\obj\Debug\ArticleApp.csproj.GenerateResource.cache
+F:\ArticleAppFinal\ArticleApp\ArticleApp\obj\Debug\ArticleApp.csproj.CoreCompileInputs.cache
+F:\ArticleAppFinal\ArticleApp\ArticleApp\obj\Debug\ArticleApp.csproj.CopyComplete
+F:\ArticleAppFinal\ArticleApp\ArticleApp\obj\Debug\ArticleApp.exe
+F:\ArticleAppFinal\ArticleApp\ArticleApp\obj\Debug\ArticleApp.pdb
